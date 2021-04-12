@@ -10,11 +10,11 @@ Recriando a página inicial do Instagram com HTML e CSS.
 
 ## Preview do projeto desenvolvido:
 
-![tela-web](C:\Users\Ari&Thi\Documents\estudos\dio-pagina-inicial-instagram\img\tela-web.png)
+![tela-web](https://github.com/Thiago88pe/dio-pagina-inicial-instagram/blob/master/img/tela-web.png)
 
 
 
-![tela-phone](C:\Users\Ari&Thi\Documents\estudos\dio-pagina-inicial-instagram\img\tela-phone.png)
+![tela-phone](https://github.com/Thiago88pe/dio-pagina-inicial-instagram/blob/master/img/tela-phone.png)
 
 
 
